@@ -14,6 +14,7 @@ public class Main {
 		FileTest.getAllObject();
 		FileTest.method("companyController/companyDelete");
 		System.out.println("end.................");
+		System.out.println();
 	}
 
 }
